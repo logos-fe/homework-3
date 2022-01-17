@@ -1,0 +1,22 @@
+body {
+    background: black;
+}
+
+.container {
+    width: 350px;
+    background-color: blueviolet;
+    margin: 20px 20px 40px;
+}
+
+.block {
+    border: 1px solid crimson;
+    padding: 10px;
+}
+
+.childBox {
+    background: orange;
+}
+ 
+.textBox {
+    background: darkgrey;
+}
