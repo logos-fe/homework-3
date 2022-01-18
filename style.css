@@ -1,0 +1,23 @@
+* {
+    box-sizing:border-box;
+}
+body {
+    background-color: black;
+}
+.main-block {
+    width: 400px;
+    background-color:indigo;
+    border: 3px solid maroon;
+    margin: 20px 20px 30px;
+    padding: 10px;
+}
+.middle-block {
+    border: 2px solid maroon;
+    background-color:goldenrod;
+    padding: 10px;
+}
+.inner-block {
+    border: 1px solid maroon;
+    background-color: honeydew;
+    padding: 10px;
+}
