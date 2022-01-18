@@ -1,0 +1,49 @@
+.block1{
+	border: 7px solid Indigo;
+	width: 400px;
+	margin:0 0 10px 0 
+}
+.block2{
+	border: 7px solid BlueViolet;
+	background: cadetblue;
+}
+.block3{
+	border: 7px solid MediumOrchid;
+	background: #FFC0CB;
+	font-size: 20px;
+	text-align: center;
+}
+.block4{
+	border: 7px solid Indigo;
+	width: 400px;
+	margin:0 0 10px 0 
+	
+}
+.block5{
+	border: 7px solid BlueViolet;
+	background: cadetblue;
+}
+.block6{
+	border: 7px solid MediumOrchid;
+	background: #FFC0CB;
+	font-size: 20px;
+	text-align: center;
+}
+
+.block7{
+	border: 7px solid Indigo;
+	width: 400px;
+}
+.block8{
+	border: 7px solid BlueViolet;
+	background: cadetblue;
+}
+.block9{
+	border: 7px solid MediumOrchid;
+	background: #FFC0CB;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+
