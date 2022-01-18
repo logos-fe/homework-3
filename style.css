@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.One{
+    margin: 20px;
+    border: 3px solid red;
+    background-color:rgb(8, 17, 102) ;
+    width: 500px;
+    padding: 20px;
+}
+.Two{
+    padding: 20px;
+    background-color: chocolate;
+    border: 2px solid red;
+}
+.Three{
+    border: 1px solid red;
+    background-color: rgb(97, 97, 151);
+    text-align: center;
+    padding: 20px;
+}
