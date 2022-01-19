@@ -6,6 +6,7 @@ body {
     background: yellow;
     width: 500px;
     margin: 10px;
+    margin-bottom: 20px;
 }
 .box2 {
     background: violet;
@@ -21,6 +22,4 @@ body {
     padding: 10px;
     margin: 10px;
 }
-.space {
-    height: 20px;
-}
+
