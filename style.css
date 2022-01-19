@@ -1,0 +1,24 @@
+.block1{
+	background: purple;
+	border: 4px solid Indigo;
+	width: 400px;
+	padding: 8px; 
+	margin: 0 0 10px 0;
+}
+.block2{
+	border: 3px solid BlueViolet;
+	background: cadetblue;
+	padding: 8px;
+}
+.block3{
+	border: 2px solid MediumOrchid;
+	background: #FFC0CB;
+	font-size: 20px;
+	text-align: center;
+	padding: 8px;
+	
+}
+
+
+
+
