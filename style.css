@@ -1,0 +1,25 @@
+body {
+    background: black;
+}
+.box1 {
+    border: 3px solid red;
+    background: yellow;
+    width: 500px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.box2 {
+    background: violet;
+    border: 2px solid red;
+    margin: 10px;
+}
+.box3 {
+    background: wheat;
+    border: 1px solid red;
+    margin: 10px;
+}
+.text {
+    padding: 10px;
+    margin: 10px;
+}
+
