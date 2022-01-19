@@ -1,0 +1,20 @@
+.block-element {
+    background-color: cadetblue;
+    border: solid rgb(10, 224, 39) 8px;
+    width: 300px;
+    border-radius: 1px;
+    margin: 70px;
+    padding: 20px;
+}
+
+.inside-block {
+    margin: 20px;
+    background-color: rgb 20px;
+    border: solid 5px;
+}
+
+p {
+    background-color: crimson;
+    color: forestgreen 5px;
+    margin: 20px;
+}
