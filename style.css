@@ -1,27 +1,18 @@
-.block{
-    background-color:rgb(164, 4, 196) ;
-    margin-left: 400px;
-    
-    
-}
-
-.block-1{
+.block-1 {
     margin-block: 30px;
     background-color: blue;
-    border:3px solid palegreen;
+    border: 3px solid palegreen;
     width: 300px;
-    ;
 }
-.block-2{
+.block-2 {
     background-color: cornflowerblue;
-    border:2px solid palegreen;
-    margin:15px;
-
+    border: 2px solid palegreen;
+    margin: 15px;
 }
-.block-3{
-    background-color:rgb(197, 130, 236);
-    border:1px solid palegreen;
-    margin:15px;
-    padding:10px;
-    color:whitesmoke;
+.block-3 {
+    background-color: rgb(197, 130, 236);
+    border: 1px solid palegreen;
+    margin: 15px;
+    padding: 10px;
+    color: whitesmoke;
 }
