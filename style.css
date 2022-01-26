@@ -1,15 +1,19 @@
-.block-1 {
+body {
+background-color: rgb(164, 4, 196); 
+margin-left: 400px;
+}
+.block-blue {
     margin-block: 30px;
     background-color: blue;
     border: 3px solid palegreen;
     width: 300px;
 }
-.block-2 {
+.block-lightblue {
     background-color: cornflowerblue;
     border: 2px solid palegreen;
     margin: 15px;
 }
-.block-3 {
+.block-pink {
     background-color: rgb(197, 130, 236);
     border: 1px solid palegreen;
     margin: 15px;
