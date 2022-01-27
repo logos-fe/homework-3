@@ -1,0 +1,18 @@
+.container {
+    border: solid 3px red;
+    background: rgb(71, 149, 168);
+    padding: 30px;
+    margin: 30px;
+}
+.block {
+    background: rgb(212, 199, 80);
+    border: 2px solid red;
+    padding: 30px;
+    margin: 30px; 
+}
+.brd {
+    border: solid 1px red;
+    background: rgb(71, 149, 168);
+    padding: 30px;
+    margin: 30px;
+}
