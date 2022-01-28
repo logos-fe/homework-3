@@ -1,0 +1,27 @@
+.wrapper {
+  height: 100%;
+
+  background: black;
+}
+.container {
+  padding: 40px 500px;
+}
+
+.block1 {
+  border: 2px solid red;
+  background: royalblue;
+  padding: 15px 15px;
+}
+
+.block2 {
+  border: 2px solid red;
+  background: yellow;
+  padding: 15px 15px;
+}
+
+.content {
+  border: 2px solid red;
+  color: black;
+  background: white;
+  padding: 20px 20px;
+}
