@@ -10,7 +10,7 @@
 .inside-block {
     margin: 20px;
     background-color: rgb 20px;
-    border: solid 5px;
+    border 8px solid rgb(10, 224, 39)
 }
 
 p {
