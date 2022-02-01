@@ -1,0 +1,21 @@
+.block-element {
+            background-color: rgb(134, 112, 204);
+            width: 300px;
+            border: 3px solid rgb(94, 231, 52);
+            margin: 10px;
+            padding: 10px;
+        }
+        
+        .inside-block {
+            border: 2px solid rgb(223, 21, 21);
+            background: indigo;
+            padding: 10px;
+            margin: 10px;
+        }
+        
+        .text {
+            border: 1px black;
+            background: rgb(199, 218, 132);
+            margin: 10px;
+            padding: 10px;
+        }
